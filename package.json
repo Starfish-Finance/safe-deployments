@@ -1,6 +1,6 @@
 {
-  "name": "@gnosis.pm/safe-deployments",
-  "version": "1.14.0",
+  "name": "@starfish-finance/safe-deployments",
+  "version": "1.0.0",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/gnosis/safe-deployments/",
   "license": "MIT",
@@ -20,16 +20,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnosis/safe-deployments.git"
+    "url": "git+https://github.com/starfish-finance/safe-deployments.git"
   },
   "keywords": [
     "Ethereum",
     "Wallet",
     "Safe"
   ],
-  "author": "richard@gnosis.io",
+  "author": "tech@starfish.finance",
   "bugs": {
-    "url": "https://github.com/gnosis/safe-deployments/issues"
+    "url": "https://github.com/starfish-finance/safe-deployments/issues"
   },
   "devDependencies": {
     "@types/node": "^14.14.21",
